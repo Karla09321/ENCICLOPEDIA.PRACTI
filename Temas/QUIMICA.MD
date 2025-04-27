@@ -17,3 +17,7 @@ La química es la ciencia que estudia la composición, estructura, propiedades y
 ## Curiosidades
 - El oro es el único metal que no se oxida.
 - La química orgánica se centra en compuestos que contienen carbono.
+
+## Referencias
+- "Química General" de Raymond Chang.
+- "La Química de la Vida" de John W. Moore.
