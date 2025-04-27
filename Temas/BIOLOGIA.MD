@@ -17,3 +17,6 @@ La biología es la ciencia que estudia la vida y los organismos vivos, incluyend
 - Hay más de 8.7 millones de especies de organismos en la Tierra.
 
 
+## Referencias
+- "Biología" de Campbell y Reece.
+- "El Origen de las Especies" de Charles Darwin.
