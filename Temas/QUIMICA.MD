@@ -2,4 +2,10 @@
 
 ## Definición
 La química es la ciencia que estudia la composición, estructura, propiedades y cambios de la materia.
-GIT
+
+## Conceptos Clave
+- Átomos
+- Moleculas
+- Reacciones químicas
+- Elementos
+- Compuestos
