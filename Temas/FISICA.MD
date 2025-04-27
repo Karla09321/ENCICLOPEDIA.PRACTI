@@ -15,5 +15,5 @@ La física es la ciencia que estudia las propiedades y el comportamiento de la m
 ## Curiosidades1
 - La física cuántica desafía nuestra comprensión de la realidad.
 
-## Referencias
+## Referencias1
 - "Fundamentos de Física" de David Halliday.
