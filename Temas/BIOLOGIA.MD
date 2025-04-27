@@ -9,3 +9,8 @@ La biología es la ciencia que estudia la vida y los organismos vivos, incluyend
 - Ecosistemas
 - Biodiversidad
 
+## Experimentos
+- **Experimento de fotosíntesis**: Estudiar cómo las plantas convierten la luz solar en energía.
+- **Observación de microorganismos**: Usar un microscopio para observar células.
+
+
