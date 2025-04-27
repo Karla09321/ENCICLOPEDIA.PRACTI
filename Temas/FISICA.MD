@@ -8,7 +8,7 @@ La física es la ciencia que estudia las propiedades y el comportamiento de la m
 - Energía
 - Movimiento
 
-## Experimentos
+## Experimentos1
 - Experimento de caída libre
 - Experimento de péndulo
 
